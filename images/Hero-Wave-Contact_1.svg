@@ -4,7 +4,7 @@
       <path id="Path_188" data-name="Path 188" d="M0,0H1440V760H0Z" transform="translate(7775.177 -2582)" fill="#fef1f2"/>
     </clipPath>
   </defs>
-  <g id="Hero_Wave_Contact" data-name="Hero Wave Contact" transform="translate(-7775.177 2582)" clip-path="url(#clip-path)">
+  <g id="Hero_Wave_Contact" data-name="Hero Wave Contact" transform="translate(-7775.177 2582)" opacity="0.45" clip-path="url(#clip-path)">
     <g id="Group_43" data-name="Group 43" transform="translate(7775.177 -2582)">
       <g id="Group_42" data-name="Group 42" opacity="0.6">
         <path id="Path_189" data-name="Path 189" d="M261.78,1541.19C124.613,1425.43,114.609,1257.7,52.732,1107.86-13.1,948.437-153.692,785.471-111.377,637.57-68.253,486.842,91.607,383.382,268.872,352.4c161.8-28.276,333.256,117.876,506.357,130.224,210.087,14.986,393.821-143.474,593.231-51.786,200.24,92.067,327.43,305.8,357.67,488.995,28.66,173.6-144.29,282.074-205.15,434.864-61.59,154.65,9.13,385.51-152.79,463.84-161.67,78.21-392.495-51.62-594.587-102.27C595.8,1671.7,401.176,1658.84,261.78,1541.19Z" fill="none" stroke="#fac0c5" stroke-width="1" fill-rule="evenodd"/>
