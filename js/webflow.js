@@ -18764,7 +18764,7 @@ Webflow.define('navbar', module.exports = function ($, _) {
     var config = data.config;
     var animation = config.animation;
 
-    if (animation === 'none' || !tram.support.transform) {
+    if (animation === 'none' || !tram.support.transform || config.duration <= 0) {
       immediate = true;
     }
 
