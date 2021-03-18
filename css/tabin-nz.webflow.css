@@ -1966,7 +1966,7 @@ strong {
 .content-image {
   position: relative;
   max-width: 100%;
-  border-radius: 0px;
+  border-radius: 20px;
 }
 
 .content-image.analytics {
