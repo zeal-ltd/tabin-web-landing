@@ -1243,7 +1243,6 @@ strong {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-radius: 10px;
   background-color: #2a3487;
   -webkit-transition: background-color 300ms ease;
   transition: background-color 300ms ease;
@@ -5091,7 +5090,6 @@ strong {
   display: inline-block;
   margin-top: 10px;
   padding: 0px 10px;
-  border-radius: 10px;
   background-color: #2a3487;
 }
 
